@@ -6,10 +6,11 @@ Scrape Google SERP from command line.
 ```commandline
 git clone git://github.com/v4iv/googlescraper-cli.git
 ```
-* Install the requirements.
+* Install the requirements and dependencies.
 ```commandline
 pip install -r requirements.txt
 ```
+Geckodriver - [Geckodriver - Releases](https://github.com/mozilla/geckodriver/releases)
 * Run the cli
 ```commandline
 python googlescraper-cli.py --query "baseball" --limit 20
@@ -29,3 +30,4 @@ Number of results to be scraped. Default value is 10.
 
 ## Dependencies
 * Selenium
+* geckodriver
