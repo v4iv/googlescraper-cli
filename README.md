@@ -4,7 +4,7 @@ Scrape Google SERP from command line.
 ## Instructions
 * Download or Clone the repository.
 ```commandline
-git clone git://github.com/SU-SWS/open_framework.git
+git clone git://github.com/v4iv/googlescraper-cli.git
 ```
 * Install the requirements.
 ```commandline
